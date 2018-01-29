@@ -38,7 +38,7 @@ public class ContactUsDown extends HKMPortalComponent
 	*
 	* board 게시물 상세 페이지의 파일다운로드를 한다. 
 	*
-	* @author	Jeongman Han
+	* @author	Rafael Vaz Inocenti
 	* @since	jdk 1.6
 	*/
 	public static final String DEFAULT_CHARSET 	= "UTF-8";	//MS949
